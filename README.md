@@ -38,7 +38,7 @@
 
 * Some of the core metrics that companies in this domain use to measure success are total online volume, approval rate, total approved volume, chargeback %, and total costs. Based on these metrics, Riskified boasts a 94.68% approval rate versus the 85% approval rate without Riskified. Total approved volume with Riskified is $132,552,000 and without would be $119,000,000. Lastly, of the 1.63% in chargebacks, there are total costs $629,622 with Riskified versus $1,939,700 if an online retail does not have Riskified’s services. These costs include lost merchandise from chargebacks. As seen in the data, Riskified is adding value to retailers based on these metrics.
 
-* Relative to competitors in the same domain Riskified is competitive. Their AI machine learning algorithms give them a competitive advantage within this space, however, as more and more firms catch up technologically, they margins will tighten and this space will become even more competitive.
+* Relative to competitors in the same domain, Riskified is competitive. Their AI and machine learning algorithms give them a competitive advantage within this space, however, as more and more firms catch up technologically, the margins will tighten and this space will become a lot more competitive.
 
 
 ## Recommendations
