@@ -56,7 +56,6 @@ The solution that Riskified offers their customer, which their competitors do no
 * Blockchain technology and cryptocurrencies are an appropriate solution to the battle against fraud, specifically chargebacks, because end customers would no longer be able to buy merchandise, dispute the transaction with their banks, receive a refund along with the merchandise. By removing banking and credit card institutions from the transaction, merchandisers and end-customers would be able to transact without any intermediaries, and, hence, resolve any transaction issues directly.
 
 ## Resources
-* https://en.wikipedia.org/wiki/Riskified
 
 * "Daily API RoundUp: Qualys, Riskified, ESPN SDKs". ProgrammableWeb. Retrieved 2015-12-22.
 
@@ -67,6 +66,8 @@ The solution that Riskified offers their customer, which their competitors do no
 * Gal, Eido. "Announcing Riskified's $165 Million Funding Round". Riskified Blog. 5 November 2019."
 
 * Dinsmore, Natalia. " Calculating ROI: Is Your Fraud Solution Delivering?" Riskified Blog. 5 February 2020."
+
+* https://en.wikipedia.org/wiki/Riskified
 
 * https://www.riskified.com/about/
 
